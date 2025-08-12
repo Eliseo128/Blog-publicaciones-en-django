@@ -559,5 +559,5 @@ python manage.py runserver
 --- 
 
 📌 **Guía creada para estudiantes de preparatoria – Nivel principiante – Windows**  
-👨‍🏫 Profesor/Tutor: [Tu nombre aquí]  
+👨‍🏫 Profesor/Tutor: [Ing. Eliseo Nava]  
 📅 Fecha: Abril 2025
